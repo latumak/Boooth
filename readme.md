@@ -64,6 +64,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 
+<img src="imgaes.Breakoutschets-home.jpg" width="350px" alt="breakoutschets van de homepagina">
 
 
 ## Intake (week 1)
@@ -73,7 +74,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** -Responsive-
 
-**Je opdracht:** -https://boooth.me-
+**Je opdracht:** -Ik ga de website van Boooth namaken: https://boooth.me-
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
