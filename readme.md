@@ -85,11 +85,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/Product-photobooth.jpeg" width="375px" alt="productpagina photobooth">
-<img src="images/Product-photobooth2.jpeg" width="375px" alt="productpagina photobooth">
-<img src="images/Product-photobooth3.jpeg" width="375px" alt="productpagina photobooth">
-<img src="images/Product-photobooth4.jpeg" width="375px" alt="productpagina photobooth">
-<img src="images/Product-photobooth5.jpeg" width="375px" alt="productpagina photobooth">
-<img src="images/Product-photobooth6.jpeg" width="375px" alt="productpagina photobooth">
-<img src="images/Product-photobooth7.jpeg" width="375px" alt="productpagina photobooth">
-<img src="images/Product-photobooth8.jpeg" width="375px" alt="productpagina photobooth">
+<img src="images/Product-photobooth.jpeg" width="300px" alt="productpagina photobooth">
+<img src="images/Product-photobooth2.jpeg" width="300px" alt="productpagina photobooth">
+<img src="images/Product-photobooth3.jpeg" width="300px" alt="productpagina photobooth">
+<img src="images/Product-photobooth4.jpeg" width="300px" alt="productpagina photobooth">
+<img src="images/Product-photobooth5.jpeg" width="300px" alt="productpagina photobooth">
+<img src="images/Product-photobooth6.jpeg" width="300px" alt="productpagina photobooth">
+<img src="images/Product-photobooth7.jpeg" width="300px" alt="productpagina photobooth">
+<img src="images/Product-photobooth8.jpeg" width="300px" alt="productpagina photobooth">
