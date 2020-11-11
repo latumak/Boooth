@@ -77,11 +77,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/Home-boooth.jpeg" width="375px" alt="de homepagina van boooth">
-<img src="images/Home-boooth2.jpeg" width="375px" alt="de homepagina van boooth">
-<img src="images/Home-boooth3.jpeg" width="375px" alt="de homepagina van boooth">
-<img src="images/Home-boooth4.jpeg" width="375px" alt="de homepagina van boooth">
-<img src="images/Home-boooth5.jpeg" width="375px" alt="de homepagina van boooth">
+<img src="images/Home-boooth.jpeg" width="300px" alt="de homepagina van boooth">
+<img src="images/Home-boooth2.jpeg" width="300px" alt="de homepagina van boooth">
+<img src="images/Home-boooth3.jpeg" width="300px" alt="de homepagina van boooth">
+<img src="images/Home-boooth4.jpeg" width="300px" alt="de homepagina van boooth">
+<img src="images/Home-boooth5.jpeg" width="300px" alt="de homepagina van boooth">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
