@@ -3,3 +3,154 @@
   box-sizing:border-box;  
 }
 
+*{
+margin:0; 
+padding:0; 
+}
+
+html{
+	width: 100vw;
+	height: 100vw;
+}
+
+body {
+	height: 100vh;
+}
+
+@font-face{
+	font-family: 'OpenSans-Regular';
+	src: url('../assets/OpenSans-Regular.ttf');
+}
+
+@font-face{
+	font-family: 'OpenSans-Light';
+	src: url('../assets/OpenSans-Light.ttf');
+}
+
+@font-face{
+	font-family: 'OpenSans-SemiBold';
+	src: url('../assets/OpenSans-SemiBold.ttf');
+}
+
+header p {
+	font-family: 'OpenSans-SemiBold';
+	background-color: #303030;
+	color: white;
+	text-align: center;
+	font-size: 14px;
+	padding: 0.75em;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	text-align: center;
+}
+
+header img {
+	height: 125px;
+
+}
+
+main img{
+	margin-bottom: 0;
+	margin-top: 0;
+	width: 100%;
+	position: 
+}
+
+main a {
+	background-color: #F5F5F5;
+	text-align: center;
+	color: #575757;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	display: block;
+	text-transform: uppercase;
+	font-family: 'OpenSans-SemiBold';
+	letter-spacing: 0.20em;
+	font-size: 14px;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+
+main a:hover {
+	background-color: #DEDEDE;
+	transition: .25s;
+}
+
+
+
+h1 {
+	background-color: black;
+	color: white;
+	font-family: 'SixCaps', sans-serif; 
+	font-size: 40px;
+	letter-spacing: 0.10em;
+	font-weight: 100;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+
+h2 {
+	font-family: 'SixCaps', sans-serif;
+	font-size: 35px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+h3 {
+	font-family: 'OpenSans-Regular', sans-serif;
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	line-height: 3em;
+}
+
+h4 {
+	font-family: 'OpenSans-SemiBold', sans-serif;
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+p {
+	color: #606060;
+	font-size: 14px;
+	font-family: 'OpenSans-Light';
+	line-height: 2.5em;
+}
+
+ul {
+	color: #606060;
+	font-size: 14px;
+	font-family: 'OpenSans-Light';
+	line-height: 2.25em;
+}
+
+/*Footer*/
+
+footer {
+	background-color: black;
+	color: white;
+	padding-top: 3em;
+	padding-left: 3em;
+}
+
+footer a {
+	color: #BBBBBB;
+	display: block;
+	font-family: 'OpenSans-Light';
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 3em;
+}
+
+footer a:hover {
+	color: #F2B544;
+}
+
