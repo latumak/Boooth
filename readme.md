@@ -6,9 +6,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. -https://boooth.me/-
+2. -https://boooth.me/photobooth/-
+3. -https://www.w3schools.com/howto/howto_css_image_center.asp-
 
 
 
@@ -38,11 +38,21 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Wat goed ging was de website goed overeen laten komen met de echte website. Ook het linken naar een ander deel van de pagina ging goed. Waar ik moeite mee had, was ervoor zorgen dat de hele website te zien was op de telefoon. Toen ik mijn website op Google Chrome & Safari inspecteerde, lukte het niet om helemaal naar het einde van de pagina te scrollen. Toen ik eenmaal mijn website op GitHub had gezet, was het probleem gelukkig verholpen.-
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+<img src="images/Voortgang-week3-1.jpeg" width="300px" alt="Photobooth pagina">
+<img src="images/Voortgang-week3-2.jpeg" width="300px" alt="Our big boy photobooth pagina">
+<img src="images/Voortgang-week3-3.jpeg" width="300px" alt="Links naar aanvullende opties pagina">
+<img src="images/Voortgang-week3-4.jpeg" width="300px" alt="Branding photobooth #1 pagina">
+<img src="images/Voortgang-week3-5.jpeg" width="300px" alt="Branding photobooth #2 en animated gif filmpjes pagina">
+<img src="images/Voortgang-week3-6.jpeg" width="300px" alt="Video's opnemen pagina">
+<img src="images/Voortgang-week3-7.jpeg" width="300px" alt="Greenscreen en direct delen via e-mail pagina">
+<img src="images/Voortgang-week3-8.jpeg" width="300px" alt="Footer">
+
+Ik heb zoveel mogelijk proberen af te krijgen van de pagina. Alle content van de main staat er al in; foto's, tekst. Ook heb ik al hovers laten werken. Ik mis alleen nog een deel van de informatie uit de footer en ik heb nog geen menu/navigatie.
+
 
 ### Agenda voor meeting
 
